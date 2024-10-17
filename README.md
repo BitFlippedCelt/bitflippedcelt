@@ -2,8 +2,6 @@
 
 ## 🚀 Hands-On Technology Leader | Cloud Architect | DevOps Practitioner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/greghorejsi/)
-
 ### 🧠 About Me
 
 I'm a passionate technology leader with over 20 years of experience, evolving from a curious coder to CTO of Infrastructure. My journey has taken me through the realms of cloud platforms, containerization, and DevOps practices. I thrive on leading radical teams, orchestrating large-scale migrations, and scaling systems to support millions of users. Child of the 90's, I've been a tinkerer and builder all my life.
